@@ -35,7 +35,7 @@ I am dedicated  and  determined  aspiring  full-stack developer with a specializ
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shivam-gupta-265902226/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-gupta-265902226/" height="30" width="40" />
+<a href="https://www.linkedin.com/in/sneha-verma-780476201/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-gupta-265902226/" height="30" width="40" />
 </p>
 <br>
  
