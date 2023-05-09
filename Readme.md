@@ -17,17 +17,17 @@
 
 
 # Brief about me...!!!
-I am dedicated  and  determined  aspiring  full-stack developer with a specialization  in MERN stack. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
+I am dedicated  and  determined  aspiring  Data Science developer with a specialization  in Python Programming Language. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
 <br><br>
 
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"></img>
 
-- 🌱 I’m currently learning *Full Stack course*
+- 🌱 I’m currently learning *Python with Data Science Course*
 
-- 💬 Ask me about *ReactJs, HTML, CSS, JavaScipt*
+- 💬 Ask me about *Python, Machine Learning, HTML*
 
-- 📫 How to reach me *shivam9521409830@gmail.com*
+- 📫 How to reach me *snehaverma79500@gmail.com*
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1XE8cRpMAuNegfpPZvxhiYqzdQ6CRheP9/view?usp=share_link" target="_blank">View Resume</a>
 
