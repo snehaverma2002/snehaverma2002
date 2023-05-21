@@ -43,8 +43,12 @@ I am dedicated  and  determined  aspiring  Data Science developer with a special
  
  <p align="center" >
   <img  src="">
-    <p>Python</p>
-  </p>
+    <h3>Python</h3>
+    <h3>Data Science</h3>
+     <h3>Machine Learning</h3>
+     <h3>VS Code </h3>
+     <h3>Pandas</h3>
+</p>
 
 <br/>
 
