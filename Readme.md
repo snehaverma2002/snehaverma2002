@@ -48,7 +48,10 @@ I am dedicated  and  determined  aspiring  Data Science developer with a special
      <h3>Machine Learning</h3>
      <h3>VS Code </h3>
      <h3>Pandas</h3>
-</p>
+      <h3>Matplotlib</h3>
+       <h3>Scikit Learn</h3>
+          
+       </p>
 
 <br/>
 
