@@ -50,8 +50,7 @@ I am dedicated  and  determined  aspiring  Data Science developer with a special
      <h3>Pandas</h3>
       <h3>Matplotlib</h3>
        <h3>Scikit Learn</h3>
-          
-       </p>
+          </p>
 
 <br/>
 
